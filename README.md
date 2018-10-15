@@ -1,2 +1,2 @@
-# sugiharo
-PCA and t-SNE on Sugiharo's impossible cylinder
+# Sugihara
+PCA and t-SNE of randomly sampled points from Sugihara's impossible cylinder curve.
